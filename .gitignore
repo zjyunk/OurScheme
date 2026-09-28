@@ -1,0 +1,5 @@
+# 忽略所有檔案
+*
+# 只保留這兩個
+!OurScheme.cpp
+!.gitignore
